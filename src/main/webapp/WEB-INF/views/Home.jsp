@@ -4,10 +4,10 @@
 <html>
 <head>
 <meta http-equiv="Content-Type" content="text/html; charset=ISO-8859-1">
-<title>This is demo page</title>
+<title>Welcome to BestBookCollection.com</title>
 </head>
 <body>
-<h2> Commited to branch using command prompt.</h2>
-
+<h2> This will be my home page.</h2>
+<h4> This page is commited from Eclipse.</h4>
 </body>
 </html>
